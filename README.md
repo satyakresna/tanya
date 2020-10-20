@@ -15,6 +15,8 @@ Saya takut jawaban saya tenggelam atau mungkin suatu hari nanti saya akan sangat
 
 > Mohon bertanya dan menanggapi dengan sopan serta saling mengapresiasi pendapat atau tanggapan satu sama lain. 🙏
 
+> Mohon bertanya menggunakan Bahasa Indonesia. ☺️
+
 1. Sertakan judul dan deskripsi pertanyaan yang ingin Anda ajukan.
 2. Sebelum Anda mengirimkan pertanyaan dengan mengklik tombol **Submit new issues** mohon dibaca ulang lagi judul dan deskripsi pertanyaan Anda siapa tahu ada salah ketik atau mungkin deskripsi pertanyaan kurang senada dengan judul yang Anda buat.
 3. Bersabarlah menunggu jawaban dari saya. ☺️
