@@ -11,6 +11,10 @@ Saya takut jawaban saya tenggelam atau mungkin suatu hari nanti saya akan sangat
 
 > Pertanyaan yang bersifat hal-hal acak akan saya jawab jika pertanyaan Anda masuk akal dan tidak menyinggung pribadi saya dan pribadi orang lain.
 
+## Sebelum bertanya
+
+**Karena Anda akan bertanya via GitHub maka saya meminta Anda untuk [mempelajari markdown](https://guides.github.com/features/mastering-markdown/).** 🙏
+
 ## Cara bertaya
 
 > Mohon bertanya dan menanggapi dengan sopan serta saling mengapresiasi pendapat atau tanggapan satu sama lain. 🙏
